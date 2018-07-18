@@ -1,7 +1,7 @@
 # Grace Kamau portfolio
 ## Competencies and my development Process
 ### 1. Projects
-   **1.1 Projects**
+   ### 1.1 Projects
 
     1.1.1 Project Management
 
@@ -81,11 +81,14 @@
         1.1.3.5.1 Roles
         1.1.3.5.2 Changes
 
-  **1.2 Portfolio**
+  ### 1.2 Portfolio
+    To preview please visit www.gracekamau.com
 
-    1.2.1 Estate API
+    **1.2.1 Estate API**
+    - What does the API do? Provides a dashboard of all the small businesses and investments a user owns.
+    - How is this accessed? Dashboard features a user sees is dependent on what their roles are.
 
-    1.2.2 Urban Farm API
+    **1.2.2 Urban Farm API**
       1.2.2.1 Poultry Farm Manager
       1.2.2.2 Pig Farm Manager
       1.2.2.3 Farm Accounting Application
@@ -95,7 +98,7 @@
       1.2.2.7 Ecommerce
       1.2.2.7 Reports
 
-    1.2.3 Spa/Salon API
+    **1.2.3 Spa/Salon API**
       1.2.3.1 Appointment Management
       1.2.3.2 Customer Management
       1.2.3.3 Marketing & Social Media
@@ -103,7 +106,7 @@
       1.2.3.5 Ecommerce
       1.2.3.6 Reports
 
-    1.2.4 Real Estate API
+    **1.2.4 Real Estate API**
       1.2.4.1 Holiday Rentals
       1.2.4.2 Long Term Rentals
       1.2.4.3 Short Term Rentals
