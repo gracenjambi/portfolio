@@ -108,10 +108,3 @@
       1.2.4.2 Long Term Rentals
       1.2.4.3 Short Term Rentals
       1.2.4.4 Showings, Marketing, Social Media
-
-## 2. Icons Meeting
-
-  2.1 Starter
-  2.2 Dev
-  2.3 QA
-  2.4 PM
