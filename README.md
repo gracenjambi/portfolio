@@ -1,8 +1,10 @@
 # Grace Kamau portfolio
 ## Competencies and my development Process
 ### 1. Projects
-   ~~**1.1 Projects**~~
+   **1.1 Projects**
+
     1.1.1 Project Management
+
       1.1.1.1 Roles
 
       1.1.1.2 Requirements
@@ -23,6 +25,7 @@
       1.1.1.5 Management Methodologies
 
     1.1.2 Product Development
+
       1.1.2.1 Development
         1.1.2.1.1 Functional Design
         1.1.2.1.2 Technical Design
@@ -51,6 +54,7 @@
         1.1.2.3.3 Workspace
 
     1.1.3 People Management
+
       1.1.3.1 Client Relations
         1.1.3.1.1 Client Engagement
         1.1.3.1.2 Client-side Roles
@@ -77,7 +81,8 @@
         1.1.3.5.1 Roles
         1.1.3.5.2 Changes
 
-  ~~**1.2 Portfolio~~**
+  **1.2 Portfolio**
+
     1.2.1 Estate API
 
     1.2.2 Urban Farm API
@@ -105,6 +110,7 @@
       1.2.4.4 Showings, Marketing, Social Media
 
 ## 2. Icons Meeting
+
   2.1 Starter
   2.2 Dev
   2.3 QA
